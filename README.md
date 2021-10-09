@@ -5,3 +5,7 @@ This is demo repo to demostrate how to scrape post data from Facebook by Python 
 Line Chart to visualize post datetime vs Like, Love, Ha Ha, Wow, Sad, Angry, Care, Shares and Comments.
 
 ![alt text](https://github.com/easonlai/facebook_post_scraping_and_text_analytics/blob/main/git-images/git-image-1.png)
+
+
+Plotting sentiment & Like columns relationship by Seaborn
+![alt text](https://github.com/easonlai/facebook_post_scraping_and_text_analytics/blob/main/git-images/git-image-2.png)
