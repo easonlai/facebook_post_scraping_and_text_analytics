@@ -8,8 +8,10 @@ Line Chart to visualize post datetime vs Like, Love, Ha Ha, Wow, Sad, Angry, Car
 
 
 Plotting sentiment & Like columns relationship by Seaborn
+
 ![alt text](https://github.com/easonlai/facebook_post_scraping_and_text_analytics/blob/main/git-images/git-image-2.png)
 
 
 Plotting WordCloud from extracted key phrase
+
 ![alt text](https://github.com/easonlai/facebook_post_scraping_and_text_analytics/blob/main/git-images/git-image-3.png)
